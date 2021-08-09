@@ -1,4 +1,4 @@
-{ 
+{
   "expo": {
     "name": "tic-tac-toe",
     "slug": "tic-tac-toe",
@@ -13,9 +13,7 @@
     "updates": {
       "fallbackToCacheTimeout": 0
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
       "supportsTablet": true
     },
