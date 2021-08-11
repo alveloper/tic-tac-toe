@@ -18,5 +18,5 @@ export default function AppBootstrap({
     DeliusUnicase_400Regular,
     DeliusUnicase_700Bold,
   });
-  return fontLoaded ? <>{children}</> : <Home />;
+  return fontLoaded ? <>{children}</> : <>{children}</>;
 }
